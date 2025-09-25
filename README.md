@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Hazem Attia
+Passionate about continuous learning, I excel in rapidly adapting to new challenges and environments. My strengths lie in my high learning rate, resourcefulness, and aggressive nature, enabling me to work hard and fast. Always eager to expand my horizons, I am committed to personal and professional growth.
 
-<!--
-**fourarms4x4/fourarms4x4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technical Skills
+- Languages: Python, C, Java, R, MATLAB, Embedded C, BASH
+- Databases: MongoDB, MySQL
+- Libraries: numpy, pandas, keras, pytorch, tensorflow, scikit-learn, pyPPG
+- Other Tools: Git, Postman
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Connect with Me
+- LinkedIn: linkedin.com/in/the-ahmedhazem
+- Email: ahmedhazem9193@gmail.com
