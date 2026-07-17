@@ -4,13 +4,15 @@ Computer engineering student with an insatiable hunger for knowledge and a relen
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, Java, C/C++, Rust, SQL, JavaScript/TypeScript, HTML/CSS, BASH
+**AI & Machine Learning:** ML, Prompt Engineering, LLM Workflows, Multi-Agent Orchestration, Autonomous Workflows, NLP
 
-**Frameworks & Infra:** FastAPI, Docker, Next.js, React, Node.js, Flask, Elasticsearch
+**Cybersecurity:** Threat Intelligence (MITRE ATT&CK, STIX 2.1), Honeypot Deployment, Intrusion Detection
 
-**AI & LLM:** Prompt Engineering, Agent Orchestration (Hermes), Ollama, LiteLLM, XGBoost, STIX 2.1
+**Backend & Infra:** FastAPI, Docker, Next.js, React, Node.js, Elasticsearch
 
-**Tools:** Git, VS Code, Linux (Arch/CachyOS), PostgreSQL
+**Languages:** Python, Java, C/C++, Rust, SQL, JavaScript/TypeScript, BASH
+
+**Agent Platforms & Tools:** Claude Code, Hermes, OpenCode, Codex, Zap, Ollama, LiteLLM, Git, Linux
 
 ## 🌍 Connect with Me
 
